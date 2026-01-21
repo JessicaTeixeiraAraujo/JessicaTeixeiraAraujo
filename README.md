@@ -16,13 +16,13 @@ I have experience in several areas and I work by integrating them to obtain a co
 <span align="center">
   
 <div align="center">
-  <a href="https://github.com/JessicaArauj">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jessicaarauj&theme=codeSTACKr&hide_border=true" style="max-width: 400px; height: 200px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicaarauj&layout=compact&langs_count=7&theme=codeSTACKr&hide_border=true" style="max-width: 400px; height: 200px;">
+  <a href="https://github.com/JessicaTeixeiraAraujo">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JessicaTeixeiraAraujo&theme=codeSTACKr&hide_border=true" style="max-width: 400px; height: 200px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaTeixeiraAraujo&layout=compact&langs_count=7&theme=codeSTACKr&hide_border=true" style="max-width: 400px; height: 200px;">
   </a>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JessicaArauj&bg_color=0d1117&color=b1633f&line=b1633f&point=b1633f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JessicaTeixeiraAraujo&bg_color=0d1117&color=b1633f&line=b1633f&point=b1633f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div style="display: inline_block"><br>
