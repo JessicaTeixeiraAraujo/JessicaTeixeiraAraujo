@@ -28,7 +28,7 @@ I have experience in several areas and I work by integrating them to obtain a co
 <div style="display: inline_block"><br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ai,opencv,anaconda,aws,azure,gcp,linux,debian,redhat,windows,latex,notion,figma,git,github,gitlab,docker,css,html,js,kubernetes,matlab,mysql,nodejs,postgres,firebase,graphql,powershell,py,pytorch,r,tensorflow,ts,v,visualstudio,vscode,npm,nodejs,yarn,cypress,selenium,postman" />
+    <img src="https://skillicons.dev/icons?i=ai,opencv,anaconda,aws,azure,gcp,linux,debian,redhat,windows,latex,notion,figma,git,github,gitlab,docker,css,html,js,kubernetes,matlab,mysql,nodejs,postgres,firebase,graphql,powershell,py,pytorch,r,tensorflow,ts,v,visualstudio,vscode,npm,yarn,cypress,selenium,postman" />
   </a>
 </p>          
 
