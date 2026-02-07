@@ -32,6 +32,7 @@ I have experience in several areas and I work by integrating them to obtain a co
   </a>
 </p>          
 
+![Snake animation](https://github.com/JessicaTeixeiraAraujo/JessicaTeixeiraAraujo/blob/main/dist/github-snake-dark.svg)
 
 </div>
   
